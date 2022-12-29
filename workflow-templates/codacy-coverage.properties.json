@@ -1,1 +1,11 @@
-
+{
+    "name": "Java coverage by codecy",
+    "description": "coverage",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
