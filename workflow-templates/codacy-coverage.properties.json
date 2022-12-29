@@ -1,11 +1,5 @@
 {
-    "name": "Java coverage by codecy",
+    "name": "codecy coverage reporter",
     "description": "coverage",
     "iconName": "example-icon",
-    "categories": [
-        "Java"
-    ],
-    "filePatterns": [
-        "pom.xml"
-    ]
-}
+
