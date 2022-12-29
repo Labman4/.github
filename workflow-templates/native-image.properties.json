@@ -1,0 +1,11 @@
+{
+    "name": "Native Image Build",
+    "description": "graalvm build image",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
