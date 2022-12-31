@@ -1,6 +1,6 @@
 {
-    "name": "Java Maven Workflow",
-    "description": "codescan collections",
+    "name": "codeql-java",
+    "description": "maven",
     "iconName": "example-icon",
     "categories": [
         "Java"
