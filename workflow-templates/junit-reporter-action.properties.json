@@ -1,1 +1,5 @@
-
+{
+    "name": "junit-reporter-action",
+    "description": "coverage",
+    "iconName": "example-icon"
+}
